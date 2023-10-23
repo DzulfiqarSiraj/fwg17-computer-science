@@ -1,0 +1,13 @@
+<mxfile host="65bd71144e">
+    <diagram id="MGAluaJTDCpMdS2LGsB_" name="Page-1">
+        <mxGraphModel dx="623" dy="344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;h1&gt;Algoritma Menukar Isi Gelas Berisi Teh dan Kopi&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Mulai&lt;/div&gt;&lt;div&gt;2. Siapkan Gelas A (air teh), Gelas B (air kopi), Gelas C (kosong)&lt;/div&gt;&lt;div&gt;3. Pindahkan air teh kedalam gelas kosong (gelas C).&lt;/div&gt;&lt;div&gt;4. Pindahkan air kopi kedalam gelas A&lt;/div&gt;&lt;div&gt;5. Pindahkan air teh (gelas C) ke dalam gelas B.&lt;/div&gt;&lt;div&gt;6. Selesai&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="10" width="240" height="270" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

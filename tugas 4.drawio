@@ -1,0 +1,16 @@
+<mxfile host="65bd71144e">
+    <diagram id="fG1LSJczG1Dj9m-lVOLD" name="Page-1">
+        <mxGraphModel dx="844" dy="1444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;h1&gt;Algoritma Menentukan Nilai Terbesar Diantara Dua Variabel&lt;/h1&gt;&lt;p&gt;1. Mulai&lt;/p&gt;&lt;p&gt;2. Deklarasikan variabel x dan y yang memiliki nilai dengan tipe data num&lt;/p&gt;&lt;p&gt;3. Lakukan perbandingan antara variabel x dengan y. Jika nilai x lebih besar dari nilai y, maka tampilkan nilai x. Jika sebaliknya, maka tampilkan nilai y.&lt;/p&gt;&lt;p&gt;4. Selesai&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="30" width="190" height="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;h1&gt;Algoritma Menentukan Bilangan Ganjil/Genap pada Sebuah Variabel&lt;/h1&gt;&lt;p&gt;1. Mulai&lt;/p&gt;&lt;p&gt;2. Deklarasikan variabel x yang memiliki nilai dengan tipe data num&lt;/p&gt;&lt;p&gt;3. Lakukan pengkondisian:&lt;/p&gt;&lt;p&gt;Jika x habis dibagi 2, maka cetak &quot;genap&quot;.&lt;/p&gt;&lt;p&gt;Jika x tidak habis dibagi 2, maka cetak &quot;ganjil&quot;&lt;/p&gt;&lt;p&gt;4. Selesai&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="260" width="190" height="420" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
